@@ -286,6 +286,9 @@ input[type="date"]:in-range::-webkit-datetime-edit-text{ color:transparent;} */
     .date, .box, .first_name {
         width: 100%;
     }
+    .select {
+        padding-left: 20px;
+    }
     .labelll {
         height: 10px;
         width: 245px;
@@ -416,6 +419,9 @@ input[type="date"]:in-range::-webkit-datetime-edit-text{ color:transparent;} */
     }
     .date, .box, .first_name {
         width: 100%;
+    }
+    .select {
+        padding-left: 20px;
     }
     .labelll {
         height: 10px;
