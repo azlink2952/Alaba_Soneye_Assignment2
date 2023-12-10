@@ -281,7 +281,7 @@ input[type="date"]:in-range::-webkit-datetime-edit-text{ color:transparent;} */
         padding-left: 20px;
     }
     button {
-        width: 112%;
+        width: 110%;
     }
     .date, .box, .first_name {
         width: 100%;
@@ -412,7 +412,7 @@ input[type="date"]:in-range::-webkit-datetime-edit-text{ color:transparent;} */
         padding-left: 20px;
     }
     button {
-        width: 112%;
+        width: 110%;
     }
     .date, .box, .first_name {
         width: 100%;
