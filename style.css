@@ -105,7 +105,7 @@ button{
     margin-left:70%;
 }
 form{
-    box-shadow: 3px 3px 10px 10px #00000011 ;
+    box-shadow: 3px 3px 10px 10px #00000011;
     padding: 40px;
     line-height: 150%;
     font-family: calibri;
@@ -327,6 +327,29 @@ input[type="date"]:in-range::-webkit-datetime-edit-text{ color:transparent;} */
         padding-left: -40px;
         margin-left: -20px;
     }
+    .top {
+        display: flex;
+        justify-content: space-around;
+        padding: 15px 3px 2px 2px;
+        align-items: center;
+    }
+    .time {
+        width: 54px;
+        padding-right: 120px;
+        }
+        .time .time1 {
+        color: #011c34;
+        font-family: "Upgrade-Book", Helvetica;
+        font-size: 16px;
+        font-weight: 400;
+        left: 0;
+        letter-spacing: -0.17px;
+        line-height: 18px;
+        position: relative;
+        text-align: center;
+        top: 0;
+        width: 54px;
+        }
 }
 @media screen and (max-width: 625px) {
     * {
@@ -461,4 +484,27 @@ input[type="date"]:in-range::-webkit-datetime-edit-text{ color:transparent;} */
         padding-left: -40px;
         margin-left: -20px;
     }
+    .top {
+        display: flex;
+        justify-content: space-around;
+        padding: 15px 3px 2px 2px;
+        align-items: center;
+    }
+    .time {
+        width: 54px;
+        padding-right: 120px;
+        }
+        .time .time1 {
+        color: #011c34;
+        font-family: "Upgrade-Book", Helvetica;
+        font-size: 16px;
+        font-weight: 400;
+        left: 0;
+        letter-spacing: -0.17px;
+        line-height: 18px;
+        position: relative;
+        text-align: center;
+        top: 0;
+        width: 54px;
+        }
 }
